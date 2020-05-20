@@ -1,0 +1,2 @@
+# centos7InstallPythonAndYum
+centos7卸载Python和yum,安装Python和yum
